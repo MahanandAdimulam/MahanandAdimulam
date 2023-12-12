@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Mahanand Adimulam
 
+- 🌱 I’m currently pursuing my Master's in Data Science at Rochester Institute of Technology
+- Ask me about Python, MySQL, Tableau, Data Warehousing, Data Analytics, Machine Learning
+- 📫 How to reach me: ma9333@g.rit.edu
+- 😄 Pronouns: he/him
 <!--
 **MahanandAdimulam/MahanandAdimulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
