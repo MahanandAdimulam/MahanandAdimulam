@@ -12,6 +12,11 @@
 
 [![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahanandAdimulam&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Connect With Me:
+
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mahanand_?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahanand-adimulam/)
+
 <!--
 **MahanandAdimulam/MahanandAdimulam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
